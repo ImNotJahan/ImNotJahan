@@ -5,3 +5,11 @@
 <a href="https://discord.com/channels/@me/462012039976583168">
   <img src="https://theme.zdassets.com/theme_assets/678183/84b82d07b293907113d9d4dafd29bfa170bbf9b6.ico" alt="ImNotJahan#3737" target="_blank" height="50px">
 </a>
+
+<a href="https://steamcommunity.com/id/tisu5051/myworkshopfiles/">
+  <img src="https://steamcommunity.com/favicon.ico" alt="ImNotJahan" target="_blank" height="50px">
+</a>
+
+<a href="https://www.curseforge.com/members/shower_minimum/projects">
+  <img src="https://styles.redditmedia.com/t5_3errm/styles/communityIcon_626lcjroufc61.png?width=256&s=649b71858126bcbb3e49b57ce6ec640f5e7ecba4" alt="ImNotJahan" target="_blank" height="50px">
+</a>
