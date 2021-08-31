@@ -1,17 +1,4 @@
-<!-- why doesn't target="_blank" do anything >:[ -->
-```csharp
-public const me = new Person("Jahan");
-me.knownLanguages = new List<string>() {"C#", "Java" /*<- the same*/, "Javascript", "PHP", "Python", "NodeJS"};
-
-const year = 1000 * 60 * 60 * 24 * 365;
-Task t = Task.Run(async delegate
-{
-    await Task.Delay(year * 10000);
-    me.knownLanguages.Add("Rust");
-});
-
-me.location.universe.meaning = 42;
-```
+![trophy](https://github-profile-trophy.vercel.app/?username=imnotjahan&theme=darkhub&column=7&no-frame=true)
 
 <div id="links">
   <a href="mailto:ce3scqdrjake@opayq.com">
