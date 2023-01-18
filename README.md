@@ -1,5 +1,4 @@
 ![trophy](https://github-profile-trophy.vercel.app/?username=imnotjahan&theme=darkhub&column=7&no-frame=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imnotjahan&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <div id="links">
   <a href="mailto:ce3scqdrjake@opayq.com">
